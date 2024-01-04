@@ -60,6 +60,11 @@ export default SoftwareEngineer;
 ```
 ---
 
+### Top Skills:
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaasvijay&layout=compact&theme=dark&hide_border=true)
 ---
 
