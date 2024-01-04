@@ -62,7 +62,7 @@ export default SoftwareEngineer;
 
 ### Top Skills:
 ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![ReactJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=react&logoColor=#61DAFB)
+![ReactJS](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=#61DAFB)
 
 ---
 
