@@ -15,12 +15,6 @@ As an emerging Full Stack Developer at **Codosphere**, I am deeply involved in t
 I am dedicated to expanding my knowledge and skills in Full Stack Development and web design. If you're interested in collaboration or discussing innovative projects, feel free to connect!
 
 
----
-
-I'm excited to be on this journey, constantly pushing the boundaries of my knowledge and skills in Full Stack Development and design. If you're interested in my work or collaborating on a project, feel free to reach out!
-
-
-
 ```javascript
 import React from "react";
 
