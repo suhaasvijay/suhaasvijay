@@ -1,16 +1,48 @@
 ### Hi there 👋
 
-<!--
-**suhaasvijay/suhaasvijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+import React from "react";
 
-Here are some ideas to get you started:
+class SoftwareEngineer extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      name: "Your Name",
+      role: "Software Engineer",
+      languagesKnown: [
+        { language: "JavaScript", status: "Moderate + Learning" },
+        { language: "Html", status: "Proficient" },
+        { language: "Css", status: "Proficient" },
+        { language: "Java", status: "Beginner" },
+        { language: "C", status: "Learning" },
+      ],
+    };
+  }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  sayHi = () => {
+    console.log("Thanks for dropping by, hope you find some of my work interesting.");
+  };
+
+  renderLanguageSkills() {
+    return this.state.languagesKnown.map((lang) => (
+      <li key={lang.language}>
+        {lang.language} - {lang.status}
+      </li>
+    ));
+  }
+
+  render() {
+    return (
+      <div>
+        <h1>Hello, I'm {this.state.name}!</h1>
+        <p>I am a {this.state.role}.</p>
+        <p>I know these programming languages:</p>
+        <ul>{this.renderLanguageSkills()}</ul>
+        <button onClick={this.sayHi}>Say Hi!</button>
+      </div>
+    );
+  }
+}
+
+export default SoftwareEngineer;
+```
