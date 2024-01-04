@@ -74,7 +74,7 @@ export default SoftwareEngineer;
 ![ReactJS](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=#F05032)
 ![ReactJS](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=#181717)
 ![ReactJS](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite&logoColor=#646CFF)
-![ReactJS](https://img.shields.io/badge/NodeJS-#181717?style=for-the-badge&logo=nodedotjs&logoColor=#339933)
+![ReactJS](https://img.shields.io/badge/NodeJS-gray?style=for-the-badge&logo=nodedotjs&logoColor=#339933)
 ![ReactJS](https://img.shields.io/badge/ExpressJS-black?style=for-the-badge&logo=express&logoColor=#000000)
 
 ---
