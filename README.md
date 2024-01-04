@@ -49,4 +49,4 @@ export default SoftwareEngineer;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaasvijay&layout=compact&theme=dark&hide_border=true)
 
-![Suhaas's github stats](https://github-readme-stats.vercel.app/api?username=gkhan205&show_icons=true&hide_border=true&theme=dark)
+![Suhaas's github stats](https://github-readme-stats.vercel.app/api?username=suhaasvijay&show_icons=true&hide_border=true&theme=dark)
