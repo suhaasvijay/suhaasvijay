@@ -66,5 +66,6 @@ export default SoftwareEngineer;
 ![Suhaas's github stats](https://github-readme-stats.vercel.app/api?username=suhaasvijay&show_icons=true&hide_border=true&theme=dark)
 ---
 ### 📫 Reach me at 
-![Twitter Follow](https://img.shields.io/twitter/follow/suhaas_v10?style=social)
-[![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/suhaasv7/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/suhaas_v10?style=social)](https://twitter.com/suhaas_v10)
+[![Linkedin Badge](https://img.shields.io/badge/-suhaasv7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/suhaasv7/)
+[![Gmail Badge](https://img.shields.io/badge/-suhaasvijay7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:suhaasvijay7@gmail.com)
