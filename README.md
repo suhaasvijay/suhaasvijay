@@ -7,8 +7,8 @@ class SoftwareEngineer extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      name: "Your Name",
-      role: "Software Engineer",
+      name: "Suhaas V",
+      role: "Full Stack Developer",
       languagesKnown: [
         { language: "JavaScript", status: "Moderate + Learning" },
         { language: "Html", status: "Proficient" },
@@ -46,3 +46,7 @@ class SoftwareEngineer extends React.Component {
 
 export default SoftwareEngineer;
 ```
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaasvijay&layout=compact&theme=dark&hide_border=true)
+
+![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=suhaasvjiay&show_icons=true&hide_border=true&theme=dark)
