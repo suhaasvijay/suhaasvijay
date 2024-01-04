@@ -67,3 +67,4 @@ export default SoftwareEngineer;
 ---
 ### 📫 Reach me at 
 ![Twitter Follow](https://img.shields.io/twitter/follow/suhaas_v10?style=social)
+[![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/suhaasv7/)
