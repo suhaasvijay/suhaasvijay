@@ -12,9 +12,6 @@ As an emerging Full Stack Developer at **Codosphere**, I am deeply involved in t
 
 ---
 
-I am dedicated to expanding my knowledge and skills in Full Stack Development and web design. If you're interested in collaboration or discussing innovative projects, feel free to connect!
-
-
 ```javascript
 import React from "react";
 
@@ -61,7 +58,12 @@ class SoftwareEngineer extends React.Component {
 
 export default SoftwareEngineer;
 ```
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaasvijay&layout=compact&theme=dark&hide_border=true)
+---
 
 ![Suhaas's github stats](https://github-readme-stats.vercel.app/api?username=suhaasvijay&show_icons=true&hide_border=true&theme=dark)
+---
+### 📫 Reach me at 
+![Twitter Follow](https://img.shields.io/twitter/follow/suhaas_v10?style=social)
