@@ -13,48 +13,43 @@ As an emerging Full Stack Developer at **Codosphere**, I am deeply involved in t
 ---
 
 ```javascript
-import React from "react";
+import React, { useState } from "react";
 
-class SoftwareEngineer extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      name: "Suhaas V",
-      role: "Full Stack Developer",
-      languagesKnown: [
-        { language: "JavaScript", status: "Moderate + Learning" },
-        { language: "Html", status: "Proficient" },
-        { language: "Css", status: "Proficient" },
-        { language: "Java", status: "Beginner" },
-        { language: "C", status: "Learning" },
-      ],
-    };
-  }
+const SoftwareEngineer = () => {
+  const [state] = useState({
+    name: "Suhaas V",
+    role: "Full Stack Developer",
+    languagesKnown: [
+      { language: "JavaScript", status: "Moderate + Learning" },
+      { language: "Html", status: "Proficient" },
+      { language: "Css", status: "Proficient" },
+      { language: "Java", status: "Beginner" },
+      { language: "C", status: "Learning" },
+    ],
+  });
 
-  sayHi = () => {
+  const sayHi = () => {
     console.log("Thanks for dropping by, hope you find some of my work interesting.");
   };
 
-  renderLanguageSkills() {
-    return this.state.languagesKnown.map((lang) => (
+  const renderLanguageSkills = () => {
+    return state.languagesKnown.map((lang) => (
       <li key={lang.language}>
         {lang.language} - {lang.status}
       </li>
     ));
-  }
+  };
 
-  render() {
-    return (
-      <div>
-        <h1>Hello, I'm {this.state.name}!</h1>
-        <p>I am a {this.state.role}.</p>
-        <p>I know these programming languages:</p>
-        <ul>{this.renderLanguageSkills()}</ul>
-        <button onClick={this.sayHi}>Say Hi!</button>
-      </div>
-    );
-  }
-}
+  return (
+    <div>
+      <h1>Hello, I'm {state.name}!</h1>
+      <p>I am a {state.role}.</p>
+      <p>I know these programming languages:</p>
+      <ul>{renderLanguageSkills()}</ul>
+      <button onClick={sayHi}>Say Hi!</button>
+    </div>
+  );
+};
 
 export default SoftwareEngineer;
 ```
